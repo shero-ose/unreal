@@ -1,0 +1,8 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"PDFPlugin": "UE4Editor-PDFPlugin.dll",
+		"PDFPluginEditor": "UE4Editor-PDFPluginEditor.dll"
+	}
+}
