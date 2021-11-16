@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "PDF Importer",
+	"Description": "PDFPlugin is a plugin used to convert PDF to images inside Unreal. It can be used to import pdf in runtime or inside the editor",
+	"Category": "Importers",
+	"CreatedBy": "IsaraTech.",
+	"CreatedByURL": "http://www.isaratech.com",
+	"DocsURL": "https://docs.isaratech.com/ue4-plugins/pdf-importer",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/7da1c18d09b9442f8e0bc1af01139ab2",
+	"SupportURL": "",
+	"EngineVersion": "4.27.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "PDFPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "PDFPluginEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	]
+}

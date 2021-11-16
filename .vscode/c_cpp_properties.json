@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "ReadAppEditor Editor Win64 Development (ReadApp)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\shero\\Repositories\\ReadApp\\.vscode\\compileCommands_ReadApp.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\shero\\Repositories\\ReadApp\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

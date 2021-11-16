@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\\\Users\\\\shero\\\\Repositories\\\\ReadApp\\\\Source\\\\ReadApp\\\\ReadApp.Build.cs",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\shero\\Repositories\\ReadApp\\.vscode\\compileCommands_Default\\ReadApp.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\shero\\\\Repositories\\\\ReadApp\\\\Source\\\\ReadApp\\\\ReadApp.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\shero\\Repositories\\ReadApp\\.vscode\\compileCommands_Default\\ReadApp.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\shero\\\\Repositories\\\\ReadApp\\\\Source\\\\ReadApp\\\\ReadApp.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\shero\\Repositories\\ReadApp\\.vscode\\compileCommands_Default\\ReadApp.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\shero\\\\Repositories\\\\ReadApp\\\\Source\\\\ReadApp\\\\ReadAppGameModeBase.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\shero\\Repositories\\ReadApp\\.vscode\\compileCommands_Default\\ReadApp.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\shero\\\\Repositories\\\\ReadApp\\\\Source\\\\ReadApp\\\\ReadAppGameModeBase.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\shero\\Repositories\\ReadApp\\.vscode\\compileCommands_Default\\ReadApp.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	}
+]
