@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Vinzenz\\Documents\\GitHub\\unreal\\Source\\ReadApp\\ReadApp.Build.cs",
+		"C:\\Users\\Vinzenz\\Documents\\GitHub\\unreal\\Plugins\\EasyFileDialog\\Source\\EasyFileDialog\\EasyFileDialog.Build.cs",
+		"C:\\Users\\Vinzenz\\Documents\\GitHub\\unreal\\Plugins\\PDFImportPlugin\\Source\\PDFPlugin\\PDFPlugin.Build.cs",
+		"C:\\Users\\Vinzenz\\Documents\\GitHub\\unreal\\Plugins\\PDFImportPlugin\\Source\\PDFPluginEditor\\PDFPluginEditor.Build.cs",
+		"C:\\Users\\Vinzenz\\Documents\\GitHub\\unreal\\Source\\ReadApp.Target.cs",
+		"C:\\Users\\Vinzenz\\Documents\\GitHub\\unreal\\Source\\ReadAppEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.1"
+}
