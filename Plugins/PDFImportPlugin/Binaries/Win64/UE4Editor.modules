@@ -2,7 +2,12 @@
 	"BuildId": "17155196",
 	"Modules": 
 	{
+<<<<<<< Updated upstream
 		"PDFPlugin": "UE4Editor-PDFPlugin.dll",
 		"PDFPluginEditor": "UE4Editor-PDFPluginEditor.dll"
+=======
+		"PDFPlugin": "UE4Editor-PDFPlugin-0869.dll",
+		"PDFPluginEditor": "UE4Editor-PDFPluginEditor-0002.dll"
+>>>>>>> Stashed changes
 	}
 }

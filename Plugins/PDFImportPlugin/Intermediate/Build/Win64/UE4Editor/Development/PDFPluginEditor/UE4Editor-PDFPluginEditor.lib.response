@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PDFPluginEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\shero\Repositories\unreal\Intermediate\Build\Win64\ReadAppEditor\Development\UnrealEd\SharedPCH.UnrealEd.NonOptimized.ShadowErrors.NoUndef.h.obj"
+"C:\Users\shero\Repositories\unreal\Plugins\PDFImportPlugin\Intermediate\Build\Win64\UE4Editor\Development\PDFPluginEditor\Module.PDFPluginEditor.cpp.obj"
+"C:\Users\shero\Repositories\unreal\Plugins\PDFImportPlugin\Intermediate\Build\Win64\UE4Editor\Development\PDFPluginEditor\Module.PDFPluginEditor.gen.cpp.obj"
+"C:\Users\shero\Repositories\unreal\Plugins\PDFImportPlugin\Intermediate\Build\Win64\UE4Editor\Development\PDFPluginEditor\Default.rc2.res"
+/OUT:"C:\Users\shero\Repositories\unreal\Plugins\PDFImportPlugin\Intermediate\Build\Win64\UE4Editor\Development\PDFPluginEditor\UE4Editor-PDFPluginEditor.lib"

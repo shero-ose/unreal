@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PDFPlugin.cpp.obj": [
+			"PDF.cpp.obj",
+			"PDFConverter.cpp.obj",
+			"PDFLoader.cpp.obj",
+			"PDFPluginModule.cpp.obj"
+		],
+		"Module.PDFPlugin.gen.cpp.obj": [
+			"PDF.gen.cpp.obj",
+			"PDFLoader.gen.cpp.obj",
+			"PDFPlugin.init.gen.cpp.obj"
+		]
+	}
+}

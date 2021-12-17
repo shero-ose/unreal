@@ -1,4 +1,12 @@
 #undef EASYFILEDIALOG_API
+<<<<<<< Updated upstream
+=======
+#undef UE_IS_ENGINE_MODULE
+#undef DEPRECATED_FORGAME
+#define DEPRECATED_FORGAME DEPRECATED
+#undef UE_DEPRECATED_FORGAME
+#define UE_DEPRECATED_FORGAME UE_DEPRECATED
+>>>>>>> Stashed changes
 #define IS_PROGRAM 0
 #define UE_EDITOR 1
 #define ENABLE_PGO_PROFILE 0
@@ -43,9 +51,21 @@
 #define RHI_RAYTRACING 1
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
+<<<<<<< Updated upstream
 #define UE_IS_ENGINE_MODULE 1
 #define UE_MODULE_NAME "EasyFileDialog"
 #define UE_PLUGIN_NAME "EasyFileDialog"
+=======
+#define UE_IS_ENGINE_MODULE 0
+#define UE_PROJECT_NAME unreal
+#define UE_TARGET_NAME ReadAppEditor
+#define UE_MODULE_NAME "EasyFileDialog"
+#define UE_PLUGIN_NAME "EasyFileDialog"
+#define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 
+#define IMPLEMENT_SIGNING_KEY_REGISTRATION() 
+#define DEPRECATED_FORGAME DEPRECATED
+#define UE_DEPRECATED_FORGAME UE_DEPRECATED
+>>>>>>> Stashed changes
 #define UNIQUENETID_ESPMODE ESPMode::Fast
 #define COREUOBJECT_API DLLIMPORT
 #define UE_ENABLE_ICU 1

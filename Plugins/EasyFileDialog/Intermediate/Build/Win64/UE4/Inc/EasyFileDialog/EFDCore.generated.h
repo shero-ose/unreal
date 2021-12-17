@@ -14,7 +14,11 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define EASYFILEDIALOG_EFDCore_generated_h
 
 #undef CURRENT_FILE_ID
+<<<<<<< Updated upstream
 #define CURRENT_FILE_ID HostProject_Plugins_EasyFileDialog_Source_EasyFileDialog_Public_EFDCore_h
+=======
+#define CURRENT_FILE_ID unreal_Plugins_EasyFileDialog_Source_EasyFileDialog_Public_EFDCore_h
+>>>>>>> Stashed changes
 
 
 #define FOREACH_ENUM_EEASYFILEDIALOGFLAGS(op) \

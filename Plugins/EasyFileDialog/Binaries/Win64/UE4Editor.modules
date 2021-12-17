@@ -2,6 +2,10 @@
 	"BuildId": "17155196",
 	"Modules": 
 	{
+<<<<<<< Updated upstream
 		"EasyFileDialog": "UE4Editor-EasyFileDialog.dll"
+=======
+		"EasyFileDialog": "UE4Editor-EasyFileDialog-0002.dll"
+>>>>>>> Stashed changes
 	}
 }

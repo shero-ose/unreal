@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-EasyFileDialog-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\shero\Repositories\unreal\Intermediate\Build\Win64\ReadAppEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\shero\Repositories\unreal\Plugins\EasyFileDialog\Intermediate\Build\Win64\UE4Editor\Development\EasyFileDialog\Module.EasyFileDialog.cpp.obj"
+"C:\Users\shero\Repositories\unreal\Plugins\EasyFileDialog\Intermediate\Build\Win64\UE4Editor\Development\EasyFileDialog\Module.EasyFileDialog.gen.cpp.obj"
+"C:\Users\shero\Repositories\unreal\Plugins\EasyFileDialog\Intermediate\Build\Win64\UE4Editor\Development\EasyFileDialog\Default.rc2.res"
+/OUT:"C:\Users\shero\Repositories\unreal\Plugins\EasyFileDialog\Intermediate\Build\Win64\UE4Editor\Development\EasyFileDialog\UE4Editor-EasyFileDialog-0002.lib"

@@ -52,7 +52,11 @@ void EmptyLinkFunctionForGeneratedCodePDF() {}
 #endif
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UPDFInfo_Statics::NewProp_PageCount_MetaData[] = {
+<<<<<<< Updated upstream
 		{ "Category", "PDFInfo" },
+=======
+		{ "Category", "PDFLoader" },
+>>>>>>> Stashed changes
 		{ "ModuleRelativePath", "Public/PDF.h" },
 	};
 #endif
@@ -87,7 +91,11 @@ void EmptyLinkFunctionForGeneratedCodePDF() {}
 		}
 		return OuterClass;
 	}
+<<<<<<< Updated upstream
 	IMPLEMENT_CLASS(UPDFInfo, 3523525131);
+=======
+	IMPLEMENT_CLASS(UPDFInfo, 2405798991);
+>>>>>>> Stashed changes
 	template<> PDFPLUGIN_API UClass* StaticClass<UPDFInfo>()
 	{
 		return UPDFInfo::StaticClass();

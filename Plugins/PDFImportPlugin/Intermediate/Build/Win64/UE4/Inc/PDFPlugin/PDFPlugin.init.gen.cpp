@@ -21,7 +21,11 @@ void EmptyLinkFunctionForGeneratedCodePDFPlugin_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
+<<<<<<< Updated upstream
 				0x075C5090,
+=======
+				0xE5590037,
+>>>>>>> Stashed changes
 				0xF9306E88,
 				METADATA_PARAMS(nullptr, 0)
 			};

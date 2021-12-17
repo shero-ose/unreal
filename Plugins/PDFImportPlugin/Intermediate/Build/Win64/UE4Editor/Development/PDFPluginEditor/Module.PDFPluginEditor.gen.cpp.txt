@@ -1,0 +1,27 @@
+C:\Users\shero\Repositories\unreal\Plugins\PDFImportPlugin\Intermediate\Build\Win64\UE4Editor\Development\PDFPluginEditor\Definitions.PDFPluginEditor.h
+C:/Users/shero/Repositories/unreal/Plugins/PDFImportPlugin/Intermediate/Build/Win64/UE4Editor/Inc/PDFPluginEditor/PDFImporter.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\shero\Repositories\unreal\Plugins\PDFImportPlugin\Source\PDFPluginEditor/Public/PDFImporter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factories/TextureFactory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factories\ImportSettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\TextureFactory.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Factories.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/MorphTarget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MorphTarget.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\EditorReimportHandler.h
+C:\Users\shero\Repositories\unreal\Plugins\PDFImportPlugin\Source\PDFPluginEditor\Public\PDFImportOptions.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Users\shero\Repositories\unreal\Plugins\PDFImportPlugin\Source\PDFPlugin\Public\PDFConverter.h
+C:\Users\shero\Repositories\unreal\Plugins\PDFImportPlugin\Source\PDFPlugin\Public\PDF.h
+C:\Users\shero\Repositories\unreal\Plugins\PDFImportPlugin\Source\ThirdParty\pdfium\include\fpdfview.h
+C:\Users\shero\Repositories\unreal\Plugins\PDFImportPlugin\Intermediate\Build\Win64\UE4Editor\Inc\PDFPlugin\PDF.generated.h
+C:\Users\shero\Repositories\unreal\Plugins\PDFImportPlugin\Intermediate\Build\Win64\UE4Editor\Inc\PDFPluginEditor\PDFImportOptions.generated.h
+C:\Users\shero\Repositories\unreal\Plugins\PDFImportPlugin\Intermediate\Build\Win64\UE4Editor\Inc\PDFPluginEditor\PDFImporter.generated.h
+C:/Users/shero/Repositories/unreal/Plugins/PDFImportPlugin/Intermediate/Build/Win64/UE4Editor/Inc/PDFPluginEditor/PDFImportOptions.gen.cpp
+C:/Users/shero/Repositories/unreal/Plugins/PDFImportPlugin/Intermediate/Build/Win64/UE4Editor/Inc/PDFPluginEditor/PDFPluginEditor.init.gen.cpp

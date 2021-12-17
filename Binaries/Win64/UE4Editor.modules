@@ -2,6 +2,10 @@
 	"BuildId": "17155196",
 	"Modules": 
 	{
+<<<<<<< Updated upstream
 		"ReadApp": "UE4Editor-ReadApp-8548.dll"
+=======
+		"ReadApp": "UE4Editor-ReadApp-7538.dll"
+>>>>>>> Stashed changes
 	}
 }
